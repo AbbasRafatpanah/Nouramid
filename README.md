@@ -192,8 +192,3 @@
 ---
 
 
-11. **بررسی فایل‌های پیکربندی:**
-    *   بازبینی `next.config.js`, `tailwind.config.js`, `tsconfig.json`, `postcss.config.js` و محتویات پوشه `public` برای اطمینان از بهترین تنظیمات و عملکرد.
-    *   بررسی فایل‌های `deploy.bat` و `deploy.sh` و اطمینان از کارکرد صحیح آن‌ها برای استقرار.
-
-</rewritten_file> 
